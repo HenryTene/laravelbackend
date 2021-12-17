@@ -42,6 +42,7 @@ class UsuarioController extends Controller
         $usuario->edad = $request->edad;
 
         $usuario->save();
+        return $usuario;
     }
 
     /**
