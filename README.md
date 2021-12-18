@@ -1,5 +1,5 @@
 # API REST - LARAVEL 8
-Este es un API REST hecho con laravel 8.0,  Framework que nos brinda una forma elegante y organizada de escribir código; Se crea un CRUD completo con posibilidades como filtrar sus consultas pasando parámetros de las 4 solicitudes 4.
+Este es un API REST hecho con laravel 8.0,  Framework que nos brinda una forma elegante y organizada de escribir código; Se crea un CRUD completo con posibilidades como filtrar sus consultas pasando parámetros de las 4 solicitudes.
 
 ## INSTALACION
 Podemos usar esta api  con los siguientes pasos.
